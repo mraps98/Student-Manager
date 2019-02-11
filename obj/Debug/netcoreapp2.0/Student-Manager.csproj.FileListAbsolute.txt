@@ -10,3 +10,16 @@
 /workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.AssemblyInfo.cs
 /workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.dll
 /workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.pdb
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.dll
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.pdb
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\app.db
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\Student-Manager.deps.json
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\Student-Manager.runtimeconfig.json
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\Student-Manager.runtimeconfig.dev.json
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\Student-Manager.dll
+C:\Users\Preet\source\repos\Student-Manager\bin\Debug\netcoreapp2.0\Student-Manager.pdb
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.csprojAssemblyReference.cache
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.csproj.CoreCompileInputs.cache
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.AssemblyInfoInputs.cache
+C:\Users\Preet\source\repos\Student-Manager\obj\Debug\netcoreapp2.0\Student-Manager.AssemblyInfo.cs
