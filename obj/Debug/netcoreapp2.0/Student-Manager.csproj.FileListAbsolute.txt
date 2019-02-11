@@ -1,0 +1,12 @@
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/app.db
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/Student-Manager.deps.json
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/Student-Manager.runtimeconfig.json
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/Student-Manager.runtimeconfig.dev.json
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/Student-Manager.dll
+/workspace/DotNet/Student-Manager/bin/Debug/netcoreapp2.0/Student-Manager.pdb
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.csproj.CoreCompileInputs.cache
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/UserSecretsAssemblyInfo.cs
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.AssemblyInfoInputs.cache
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.AssemblyInfo.cs
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.dll
+/workspace/DotNet/Student-Manager/obj/Debug/netcoreapp2.0/Student-Manager.pdb
